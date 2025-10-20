@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GanjaBot | Herbal Guide</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Saira+Stencil+One&display=swap" />
+</head>
+<body>
+  <main class="app">
+    <section class="bot-panel">
+      <div class="bot-avatar" id="ganjaBotAvatar" aria-live="polite">
+        <img
+          src="assets/ganja-bot.png?v=2"
+          alt="Cartoon robot named GanjaBot smiling"
+          id="ganjaBotImage"
+        />
+        <video
+          id="ganjaBotVideo"
+          muted
+          playsinline
+        >
+          <source src="assets/ganja-bot-alive.webm?v=1" type="video/webm" />
+          <source src="assets/ganja-bot-alive.mp4?v=2" type="video/mp4" />
+        </video>
+        <span class="bot-status" id="botStatus">let's get blazed!</span>
+      </div>
+      <header class="bot-info">
+        <h1 class="bot-title">
+          <img
+            src="assets/ganjabottext.png"
+            alt="GanjaBot"
+            decoding="async"
+          />
+        </h1>
+        <p>Medicinal &amp; recreational cannabis expert</p>
+      </header>
+      <ul class="bot-highlights">
+        <li>Guidance on therapeutic cannabinoids</li>
+        <li>Strain suggestions for desired effects</li>
+        <li>Responsible use &amp; harm reduction tips</li>
+      </ul>
+    </section>
+
+    <section class="chat-panel" aria-label="Conversation with GanjaBot">
+      <div class="chat-leaf-field" aria-hidden="true">
+        <span class="chat-leaf chat-leaf--one"></span>
+        <span class="chat-leaf chat-leaf--two"></span>
+        <span class="chat-leaf chat-leaf--three"></span>
+        <span class="chat-leaf chat-leaf--four"></span>
+        <span class="chat-leaf chat-leaf--five"></span>
+        <span class="chat-leaf chat-leaf--six"></span>
+      </div>
+      <video
+        class="chat-watermark"
+        id="ganjaBotChatVideo"
+        muted
+        playsinline
+      >
+        <source src="assets/ganja-bot-alive.webm?v=1" type="video/webm" />
+        <source src="assets/ganja-bot-alive.mp4?v=2" type="video/mp4" />
+      </video>
+      <div class="messages" id="messages" role="log" aria-live="polite"></div>
+      <form id="chatForm" autocomplete="off">
+        <label class="sr-only" for="userInput">Ask GanjaBot</label>
+        <input
+          id="userInput"
+          name="userInput"
+          placeholder="Ask about terpenes, dosing, or mindful consumption..."
+          maxlength="280"
+          required
+        />
+        <button type="submit" aria-label="Send message to GanjaBot">Ask</button>
+      </form>
+    </section>
+  </main>
+
+  <footer class="disclaimer">
+    <p>
+      The guidance shared by GanjaBot is for informational and educational purposes only. It is not intended to replace professional medical advice, diagnosis, or treatment, and does not create a doctor-patient relationship. Always consult a qualified healthcare provider with questions about a medical condition or before making changes to your care. If you think you may be experiencing a medical emergency, call your doctor or emergency services immediately. You agree to use this information at your own risk, and neither this site nor its contributors are liable for any loss, injury, or damage that may result.
+    </p>
+  </footer>
+
+  <template id="messageTemplate">
+    <article class="message">
+      <div class="message-avatar" aria-hidden="true"></div>
+      <p></p>
+    </article>
+  </template>
+
+  <script src="main.js" defer></script>
+</body>
+</html>

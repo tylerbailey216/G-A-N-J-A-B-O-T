@@ -1,0 +1,591 @@
+:root {
+  color-scheme: dark;
+  font-family: "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  background: radial-gradient(circle at top, #17352c 0%, #0c1414 55%, #050908 100%);
+  color: #f3f8f7;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: clamp(1rem, 3vw, 2.75rem);
+  overflow-y: auto;
+  flex-direction: column;
+  gap: clamp(1rem, 3vw, 1.75rem);
+}
+
+.app {
+  display: grid;
+  gap: 2.75rem;
+  grid-template-columns: minmax(260px, 320px) minmax(360px, 1fr);
+  background: rgba(12, 28, 24, 0.78);
+  border: 1px solid rgba(129, 223, 196, 0.2);
+  border-radius: 24px;
+  padding: clamp(1.75rem, 3vw, 2.5rem);
+  width: min(100%, 1100px);
+  max-width: 1100px;
+  box-shadow: 0 18px 60px rgba(10, 30, 25, 0.55);
+  backdrop-filter: blur(16px);
+}
+
+.bot-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: center;
+  text-align: center;
+}
+
+.disclaimer {
+  max-width: min(1100px, 94vw);
+  font-size: 0.78rem;
+  line-height: 1.6;
+  color: rgba(215, 242, 230, 0.7);
+  text-align: center;
+  letter-spacing: 0.015em;
+}
+
+.disclaimer p {
+  margin: 0 auto;
+  background: rgba(9, 20, 17, 0.65);
+  border: 1px solid rgba(118, 222, 184, 0.18);
+  border-radius: 12px;
+  padding: 0.9rem 1.1rem;
+  backdrop-filter: blur(6px);
+}
+
+.bot-avatar {
+  position: relative;
+  width: clamp(180px, 36vw, 260px);
+  aspect-ratio: 1 / 1;
+  border-radius: 24px;
+  overflow: hidden;
+  background: linear-gradient(160deg, rgba(18, 54, 41, 0.85), rgba(7, 18, 15, 0.95));
+  padding: 0.75rem;
+  display: grid;
+  place-items: center;
+  border: 1px solid rgba(118, 222, 184, 0.22);
+  transition: box-shadow 0.4s ease, transform 0.4s ease;
+}
+
+.bot-avatar img {
+  width: 100%;
+  display: block;
+  filter: drop-shadow(0 10px 30px rgba(8, 24, 20, 0.6));
+  transition: filter 0.3s ease;
+}
+
+.bot-avatar.is-generating {
+  box-shadow: 0 0 0 2px rgba(118, 222, 184, 0.35), 0 24px 45px rgba(10, 40, 30, 0.6);
+}
+
+.bot-avatar.is-generating img {
+  filter: drop-shadow(0 24px 40px rgba(8, 24, 20, 0.72)) saturate(1.05);
+}
+
+.bot-avatar.is-generating video {
+  filter: drop-shadow(0 24px 40px rgba(8, 24, 20, 0.72)) saturate(1.05);
+}
+
+.bot-status {
+  position: absolute;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+  padding: 0.4rem 1.05rem;
+  border-radius: 999px;
+  background-color: #2d2219;
+  background-image: url("assets/stone-status.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
+  border: 1px solid rgba(208, 184, 132, 0.18);
+  font-size: 0.95rem;
+  letter-spacing: 0.08em;
+  font-family: "Saira Stencil One", "Trebuchet MS", sans-serif;
+  text-transform: uppercase;
+  color: #c4f0c2;
+  text-shadow: 0 2px 3px rgba(0, 0, 0, 0.6);
+  box-shadow:
+    inset 0 2px 6px rgba(255, 255, 255, 0.08),
+    inset 0 -8px 14px rgba(18, 12, 6, 0.72),
+    0 14px 30px rgba(4, 10, 7, 0.62);
+  overflow: hidden;
+}
+
+.bot-status::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background:
+    radial-gradient(140% 160% at 18% 22%, rgba(212, 208, 170, 0.22), transparent 60%),
+    radial-gradient(180% 180% at 82% 78%, rgba(34, 46, 39, 0.6), transparent 72%),
+    linear-gradient(165deg, rgba(46, 32, 18, 0.55), rgba(12, 10, 8, 0.75));
+  mix-blend-mode: multiply;
+  opacity: 0.65;
+  pointer-events: none;
+  z-index: -2;
+}
+
+.bot-status::after {
+  content: "";
+  position: absolute;
+  inset: 1px;
+  border-radius: inherit;
+  background:
+    radial-gradient(260px 160px at 16% 70%, rgba(78, 120, 84, 0.28), transparent 52%),
+    radial-gradient(220px 200px at 76% 24%, rgba(92, 138, 90, 0.34), transparent 58%),
+    radial-gradient(320px 240px at 50% 96%, rgba(52, 82, 64, 0.3), transparent 70%);
+  filter: blur(0.35px);
+  mix-blend-mode: screen;
+  opacity: 0.6;
+  pointer-events: none;
+  z-index: -1;
+  box-shadow:
+    inset 0 1px 2px rgba(255, 255, 255, 0.1),
+    inset 0 -2px 3px rgba(0, 0, 0, 0.45);
+}
+
+
+.bot-info h1 {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.bot-info h1 img {
+  display: block;
+  width: clamp(200px, 32vw, 320px);
+  height: auto;
+  filter: drop-shadow(0 10px 30px rgba(7, 18, 15, 0.6));
+}
+
+.bot-info p {
+  margin: 0.2rem 0 0;
+  font-size: 1rem;
+  color: #b8e0d1;
+}
+
+.bot-highlights {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.75rem;
+  width: 100%;
+}
+
+.bot-highlights li {
+  background: rgba(15, 38, 31, 0.8);
+  border-radius: 14px;
+  padding: 0.85rem 1rem;
+  border: 1px solid rgba(118, 222, 184, 0.22);
+  font-size: 0.95rem;
+  text-align: left;
+}
+
+.chat-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  background-color: #211a12;
+  background-image:
+    linear-gradient(160deg, rgba(18, 24, 21, 0.85), rgba(12, 16, 14, 0.92)),
+    url("assets/stone-status.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 18px;
+  padding: 1.5rem;
+  border: 1px solid rgba(210, 184, 132, 0.22);
+  box-shadow:
+    inset 0 2px 6px rgba(255, 255, 255, 0.05),
+    inset 0 -10px 18px rgba(0, 0, 0, 0.45),
+    0 18px 50px rgba(4, 10, 7, 0.65);
+  position: relative;
+  overflow: hidden;
+}
+
+.chat-panel::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(180% 160% at 12% 20%, rgba(92, 138, 90, 0.18), transparent 60%),
+    radial-gradient(200% 200% at 86% 78%, rgba(64, 96, 68, 0.22), transparent 65%),
+    linear-gradient(165deg, rgba(40, 26, 14, 0.38), rgba(8, 10, 8, 0.65));
+  mix-blend-mode: multiply;
+  pointer-events: none;
+  z-index: -1;
+  opacity: 0.72;
+}
+
+.chat-watermark {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.2;
+  filter: saturate(0.9) blur(0.6px);
+  pointer-events: none;
+  transition: opacity 0.4s ease;
+}
+
+.chat-leaf-field {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.chat-leaf {
+  position: absolute;
+  top: 110%;
+  width: clamp(70px, 14vw, 130px);
+  aspect-ratio: 1;
+  background-image: url("assets/cannabisleaf.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  opacity: 0;
+  filter: drop-shadow(0 10px 18px rgba(8, 24, 20, 0.28)) saturate(1.1);
+  mix-blend-mode: lighten;
+  animation: leafGlide var(--duration, 24s) ease-in-out infinite;
+  transform-origin: 50% 50%;
+}
+
+.chat-leaf--one {
+  left: 6%;
+  --duration: 28s;
+  --opacity: 0.22;
+  --scale: 0.88;
+  --drift-mid: -6%;
+  --drift-x: -14%;
+  --rotate-start: -14deg;
+  --rotate-mid: -2deg;
+  --rotate-end: 10deg;
+  animation-delay: -8s;
+}
+
+.chat-leaf--two {
+  left: 22%;
+  --duration: 24s;
+  --opacity: 0.2;
+  --scale: 0.78;
+  --drift-mid: 6%;
+  --drift-x: 16%;
+  --rotate-start: 8deg;
+  --rotate-mid: 14deg;
+  --rotate-end: 4deg;
+  animation-delay: -14s;
+}
+
+.chat-leaf--three {
+  left: 40%;
+  --duration: 32s;
+  --opacity: 0.24;
+  --scale: 1.05;
+  --drift-mid: -4%;
+  --drift-x: -8%;
+  --rotate-start: -6deg;
+  --rotate-mid: 6deg;
+  --rotate-end: 18deg;
+  animation-delay: -4s;
+}
+
+.chat-leaf--four {
+  left: 58%;
+  --duration: 26s;
+  --opacity: 0.18;
+  --scale: 0.92;
+  --drift-mid: 10%;
+  --drift-x: 20%;
+  --rotate-start: 12deg;
+  --rotate-mid: 4deg;
+  --rotate-end: -6deg;
+  animation-delay: -18s;
+}
+
+.chat-leaf--five {
+  left: 74%;
+  --duration: 30s;
+  --opacity: 0.2;
+  --scale: 0.82;
+  --drift-mid: -12%;
+  --drift-x: -20%;
+  --rotate-start: -10deg;
+  --rotate-mid: -4deg;
+  --rotate-end: 8deg;
+  animation-delay: -12s;
+}
+
+.chat-leaf--six {
+  left: 88%;
+  --duration: 34s;
+  --opacity: 0.24;
+  --scale: 0.98;
+  --drift-mid: 8%;
+  --drift-x: 18%;
+  --rotate-start: 6deg;
+  --rotate-mid: 16deg;
+  --rotate-end: 2deg;
+  animation-delay: -22s;
+}
+
+@keyframes leafGlide {
+  0% {
+    transform: translate3d(0, 0, 0) scale(var(--scale, 1)) rotate(var(--rotate-start, 0deg));
+    opacity: 0;
+  }
+  18% {
+    opacity: var(--opacity, 0.2);
+  }
+  50% {
+    transform: translate3d(var(--drift-mid, 0%), -70%, 0) scale(var(--scale, 1)) rotate(var(--rotate-mid, 10deg));
+    opacity: var(--opacity, 0.2);
+  }
+  82% {
+    opacity: var(--opacity, 0.12);
+  }
+  100% {
+    transform: translate3d(var(--drift-x, 0%), -140%, 0) scale(var(--scale, 1)) rotate(var(--rotate-end, -6deg));
+    opacity: 0;
+  }
+}
+
+.chat-panel.is-generating .chat-watermark {
+  opacity: 0.38;
+  filter: saturate(1.05) blur(0.4px);
+}
+
+.chat-panel > *:not(.chat-watermark):not(.chat-leaf-field) {
+  position: relative;
+  z-index: 1;
+}
+
+.messages {
+  flex: 1;
+  min-height: clamp(220px, 40vh, 420px);
+  max-height: clamp(340px, 55vh, 520px);
+  overflow-y: auto;
+  display: grid;
+  gap: 1rem;
+  padding-right: 0.25rem;
+}
+
+.message {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.8rem;
+  align-items: start;
+  padding: 1.05rem 1.2rem;
+  border-radius: 16px;
+  position: relative;
+  background: rgba(14, 36, 29, 0.78);
+  border: 1px solid rgba(118, 222, 184, 0.16);
+  line-height: 1.4;
+}
+
+.message.bot {
+  background: rgba(16, 52, 41, 0.58);
+  border-color: rgba(118, 222, 184, 0.3);
+}
+
+.message.user {
+  background: rgba(21, 34, 28, 0.52);
+}
+
+.message-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: linear-gradient(140deg, rgba(118, 222, 184, 0.5), rgba(66, 180, 140, 0.3));
+  box-shadow: inset 0 0 12px rgba(118, 222, 184, 0.45);
+}
+
+.message.bot .message-avatar {
+  background-image: url("assets/ganja-bot.png?v=2");
+  background-size: cover;
+  background-position: center;
+  box-shadow: 0 0 6px rgba(118, 222, 184, 0.35);
+}
+
+.message p {
+  margin: 0;
+  font-size: 0.97rem;
+  color: #e9f5f0;
+  line-height: 1.5;
+}
+
+.message p span {
+  display: block;
+}
+
+.message.is-loading p {
+  opacity: 0.6;
+  font-style: italic;
+}
+
+form {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 0.65rem;
+  align-items: center;
+}
+
+input {
+  border: 1px solid rgba(118, 222, 184, 0.28);
+  background: rgba(9, 22, 19, 0.85);
+  color: inherit;
+  border-radius: 999px;
+  padding: 0.85rem 1.2rem;
+  font-size: 1rem;
+  transition: border 0.2s ease, box-shadow 0.2s ease;
+}
+
+input:focus {
+  outline: none;
+  border-color: rgba(118, 222, 184, 0.65);
+  box-shadow: 0 0 0 2px rgba(118, 222, 184, 0.2);
+}
+
+button {
+  border: none;
+  background: linear-gradient(120deg, #6dd8ac, #4ab88d);
+  color: #08241b;
+  font-weight: 600;
+  padding: 0.85rem 1.6rem;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 18px rgba(77, 184, 144, 0.45);
+}
+
+button:active {
+  transform: translateY(0);
+  box-shadow: none;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+@media (max-width: 960px) {
+  body {
+    align-items: flex-start;
+    padding: clamp(1rem, 4vw, 1.5rem);
+  }
+
+  .app {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    width: min(100%, 700px);
+    padding: clamp(1.25rem, 3vw, 1.75rem);
+  }
+
+  .disclaimer {
+    font-size: 0.74rem;
+  }
+}
+
+@media (max-width: 640px) {
+  body {
+    padding: clamp(0.75rem, 4vw, 1.25rem);
+  }
+
+  .app {
+    padding: clamp(1rem, 4vw, 1.35rem);
+    gap: 1.5rem;
+  }
+
+  .disclaimer {
+    margin-top: 0.75rem;
+    font-size: 0.7rem;
+  }
+
+  .messages {
+    min-height: 260px;
+    max-height: 60vh;
+    padding-right: 0;
+  }
+
+  form {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+
+  button {
+    width: 100%;
+    justify-self: stretch;
+  }
+
+  input {
+    width: 100%;
+  }
+
+  .chat-leaf--five,
+  .chat-leaf--six {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .bot-panel {
+    gap: 1.25rem;
+  }
+
+  .bot-highlights li {
+    font-size: 0.9rem;
+  }
+
+  .chat-panel {
+    padding: 1.25rem;
+  }
+}
+.bot-avatar video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  pointer-events: none;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.4s ease, visibility 0.4s ease;
+}
+
+.bot-avatar.is-video-active video {
+  opacity: 1;
+  visibility: visible;
+}
+
+.bot-avatar.is-video-active img {
+  opacity: 0;
+}

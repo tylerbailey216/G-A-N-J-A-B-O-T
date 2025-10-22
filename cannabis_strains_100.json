@@ -1,0 +1,3339 @@
+[
+  {
+    "name": "Blue Dream",
+    "aliases": [
+      "blue dream"
+    ],
+    "type": "Hybrid (sativa-leaning)",
+    "lineage": "Blueberry x Haze",
+    "thc": "17-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "pinene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "sweet berry",
+      "herbal",
+      "pine"
+    ],
+    "experiences": [
+      "clear-headed euphoria",
+      "creative focus",
+      "gentle body relaxation"
+    ],
+    "bestFor": [
+      "daytime pain relief",
+      "balanced mood",
+      "productive creativity"
+    ],
+    "popularity": "Staple West Coast hybrid known for reliable balance.",
+    "idealConsumption": "Vaporize around 360\u00b0F to keep the berry top notes bright.",
+    "popularityRank": 1
+  },
+  {
+    "name": "Girl Scout Cookies",
+    "aliases": [
+      "girl scout cookies",
+      "gsc"
+    ],
+    "type": "Hybrid (indica-leaning)",
+    "lineage": "OG Kush x Durban Poison",
+    "thc": "19-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "linalool"
+    ],
+    "aromas": [
+      "sweet dough",
+      "earthy spice",
+      "mint"
+    ],
+    "experiences": [
+      "heavy-hitting euphoria",
+      "full-body comfort",
+      "mood elevation"
+    ],
+    "bestFor": [
+      "stress relief",
+      "late-afternoon unwinding",
+      "appetite support"
+    ],
+    "popularity": "Dessert hybrid classic with nationwide demand.",
+    "idealConsumption": "Enjoy in a slow-burning joint or low-temp dab for minty sweetness.",
+    "popularityRank": 2
+  },
+  {
+    "name": "OG Kush",
+    "aliases": [
+      "og kush",
+      "og"
+    ],
+    "type": "Hybrid (indica-leaning)",
+    "lineage": "Chemdawg x Hindu Kush",
+    "thc": "19-26%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "limonene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "fuel",
+      "earth",
+      "citrus"
+    ],
+    "experiences": [
+      "classic relaxing buzz",
+      "mood melt",
+      "body-soothing relief"
+    ],
+    "bestFor": [
+      "evening wind-down",
+      "pain management",
+      "low-key social time"
+    ],
+    "popularity": "Legacy cultivar anchoring menus since the 90s.",
+    "idealConsumption": "Pack in glassware or vaporize at 345\u00b0F for a bright citrus front.",
+    "popularityRank": 3
+  },
+  {
+    "name": "Granddaddy Purple",
+    "aliases": [
+      "granddaddy purple",
+      "gdp"
+    ],
+    "type": "Indica",
+    "lineage": "Purple Urkle x Big Bud",
+    "thc": "17-23%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "pinene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "grape",
+      "berry",
+      "earth"
+    ],
+    "experiences": [
+      "deep body relaxation",
+      "soothing calm",
+      "sleepy comfort"
+    ],
+    "bestFor": [
+      "nighttime rest",
+      "stress relief",
+      "muscle relaxation"
+    ],
+    "popularity": "Perennial favorite for people chasing classic indica effects.",
+    "idealConsumption": "Decarb into coconut oil for a dreamy evening edible or keep a flower bowl for twilight use.",
+    "popularityRank": 4
+  },
+  {
+    "name": "Sour Diesel",
+    "aliases": [
+      "sour diesel",
+      "sour d"
+    ],
+    "type": "Sativa",
+    "lineage": "Chemdawg 91 x Super Skunk",
+    "thc": "18-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "caryophyllene",
+      "myrcene"
+    ],
+    "aromas": [
+      "tangy diesel",
+      "citrus",
+      "skunk"
+    ],
+    "experiences": [
+      "fast-onset cerebral clarity",
+      "energizing uplift",
+      "creative drive"
+    ],
+    "bestFor": [
+      "morning motivation",
+      "focus-driven projects",
+      "mood lift"
+    ],
+    "popularity": "East Coast icon that still rules wake-and-bake menus.",
+    "idealConsumption": "Vaporize at 365\u00b0F for a bright citrus punch or roll a skinny joint to keep dosage moderate.",
+    "popularityRank": 5
+  },
+  {
+    "name": "Gorilla Glue #4",
+    "aliases": [
+      "gorilla glue",
+      "gg4",
+      "gorilla glue #4"
+    ],
+    "type": "Hybrid (indica-leaning)",
+    "lineage": "Chem's Sister x Sour Dubb x Chocolate Diesel",
+    "thc": "20-27%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "humulene",
+      "myrcene"
+    ],
+    "aromas": [
+      "diesel",
+      "chocolate",
+      "pine"
+    ],
+    "experiences": [
+      "heavy relaxation",
+      "deep muscle relief",
+      "euphoric calm"
+    ],
+    "bestFor": [
+      "stubborn pain",
+      "evening decompression",
+      "post-work recovery"
+    ],
+    "popularity": "Potent resin bomb prized by veteran consumers.",
+    "idealConsumption": "Take small vapor draws; expect a strong couch-lock if you torch a full bowl.",
+    "popularityRank": 6
+  },
+  {
+    "name": "Wedding Cake",
+    "aliases": [
+      "wedding cake",
+      "triangle mints"
+    ],
+    "type": "Hybrid (indica-leaning)",
+    "lineage": "Triangle Kush x Animal Mints",
+    "thc": "19-26%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "caryophyllene",
+      "linalool"
+    ],
+    "aromas": [
+      "vanilla frosting",
+      "pepper",
+      "earth"
+    ],
+    "experiences": [
+      "balanced full-body relief",
+      "calm euphoria",
+      "savory dessert finish"
+    ],
+    "bestFor": [
+      "social evenings",
+      "balanced relaxation",
+      "restorative downtime"
+    ],
+    "popularity": "Dessert hybrid darling with national demand.",
+    "idealConsumption": "Pairs nicely with low-temp dabs or a tightly packed bowl to release the vanilla-pepper profile.",
+    "popularityRank": 7
+  },
+  {
+    "name": "Pineapple Express",
+    "aliases": [
+      "pineapple express"
+    ],
+    "type": "Hybrid (sativa-leaning)",
+    "lineage": "Trainwreck x Hawaiian",
+    "thc": "17-23%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "beta-pinene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "tropical fruit",
+      "pineapple",
+      "cedar"
+    ],
+    "experiences": [
+      "cheerful energy",
+      "smooth body buzz",
+      "creative spark"
+    ],
+    "bestFor": [
+      "daytime adventures",
+      "social creativity",
+      "errand running"
+    ],
+    "popularity": "Film fame aside, it stays on best-seller lists for upbeat versatility.",
+    "idealConsumption": "Great in a dry herb vape at 360\u00b0F or mixed with citrus-forward seltzer for a session drink.",
+    "popularityRank": 8
+  },
+  {
+    "name": "White Widow",
+    "aliases": [
+      "white widow"
+    ],
+    "type": "Hybrid",
+    "lineage": "Brazilian Sativa landrace x South Indian Indica",
+    "thc": "18-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "pinene"
+    ],
+    "aromas": [
+      "earth",
+      "pungent",
+      "peppery spice"
+    ],
+    "experiences": [
+      "balanced cerebral buzz",
+      "upbeat focus",
+      "relaxed body ease"
+    ],
+    "bestFor": [
+      "daytime creativity",
+      "light pain relief",
+      "social energy"
+    ],
+    "popularity": "One of the most widely recognized classics, still filling dispensary menus decades after its debut.",
+    "idealConsumption": "Grind gently and use a vaporizer around 355\u00b0F to highlight the spicy pine profile without harshness.",
+    "popularityRank": 9
+  },
+  {
+    "name": "Runtz",
+    "aliases": [
+      "runtz",
+      "white runtz"
+    ],
+    "type": "Hybrid",
+    "lineage": "Gelato x Zkittlez",
+    "thc": "20-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "caryophyllene",
+      "ocimene"
+    ],
+    "aromas": [
+      "candy",
+      "tropical fruit",
+      "cream"
+    ],
+    "experiences": [
+      "euphoric happiness",
+      "body-soft relaxation",
+      "social ease"
+    ],
+    "bestFor": [
+      "celebratory moods",
+      "creative play",
+      "late-day hangouts"
+    ],
+    "popularity": "Candy-coated terp star with relentless hype.",
+    "idealConsumption": "Pack a fresh bowl or roll a slow-burning joint to savor sweet terps.",
+    "popularityRank": 10
+  },
+  {
+    "name": "ACDC",
+    "aliases": [
+      "acdc"
+    ],
+    "type": "CBD-rich hybrid",
+    "lineage": "Cannatonic phenotype",
+    "thc": "0.5-1.5%",
+    "cbd": "13-20%",
+    "terpenes": [
+      "pinene",
+      "myrcene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "earthy",
+      "pine",
+      "citrus zest"
+    ],
+    "experiences": [
+      "clear-headed calm",
+      "peripheral pain relief",
+      "minimal intoxication"
+    ],
+    "bestFor": [
+      "daytime relief",
+      "social anxiety",
+      "functional dosing"
+    ],
+    "popularity": "Go-to CBD cultivar for relief without heavy psychoactivity.",
+    "idealConsumption": "Sublingual tinctures or gentle vapor hits keep the clarity intact.",
+    "popularityRank": 11
+  },
+  {
+    "name": "Harlequin",
+    "aliases": [
+      "harlequin"
+    ],
+    "type": "CBD-rich hybrid",
+    "lineage": "Colombian Gold x Thai x Swiss landrace",
+    "thc": "4-7%",
+    "cbd": "8-16%",
+    "terpenes": [
+      "myrcene",
+      "pinene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "herbal",
+      "mango",
+      "earth"
+    ],
+    "experiences": [
+      "gentle uplift",
+      "clear-headed relief",
+      "calm focus"
+    ],
+    "bestFor": [
+      "microdosing",
+      "daytime aches",
+      "social anxiety"
+    ],
+    "popularity": "Beloved medical cultivar for CBD-dominant balance.",
+    "idealConsumption": "Use tinctures or vaporize at 335\u00b0F for mellow tropical notes.",
+    "popularityRank": 12
+  },
+  {
+    "name": "Northern Lights",
+    "aliases": [
+      "northern lights",
+      "nl"
+    ],
+    "type": "Indica",
+    "lineage": "Afghani landrace x Thai",
+    "thc": "16-22%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "humulene"
+    ],
+    "aromas": [
+      "sweet pine",
+      "earth",
+      "spice"
+    ],
+    "experiences": [
+      "full-body ease",
+      "sleepy tranquility",
+      "stress relief"
+    ],
+    "bestFor": [
+      "bedtime routines",
+      "muscle relaxation",
+      "quiet evenings"
+    ],
+    "popularity": "Timeless indica valued for consistent sedation.",
+    "idealConsumption": "Enjoy in a dry herb vape at 350\u00b0F or as a bedtime edible infusion.",
+    "popularityRank": 13
+  },
+  {
+    "name": "Alien Technology",
+    "aliases": [
+      "alien technology",
+      "alien tech"
+    ],
+    "type": "Indica",
+    "lineage": "Rare Afghani landrace",
+    "thc": "18-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "humulene"
+    ],
+    "aromas": [
+      "earth",
+      "sweet spice",
+      "floral"
+    ],
+    "experiences": [
+      "grounding body warmth",
+      "steady calm",
+      "meditative relaxation"
+    ],
+    "bestFor": [
+      "winding down",
+      "evening meditation",
+      "post-work decompression"
+    ],
+    "popularity": "Heirloom indica with an introspective personality.",
+    "idealConsumption": "Use a small pipe or vaporizer at 340\u00b0F to highlight the spice.",
+    "popularityRank": 14
+  },
+  {
+    "name": "Jack Herer",
+    "aliases": [
+      "jack herer",
+      "j1"
+    ],
+    "type": "Sativa",
+    "lineage": "Haze x Northern Lights #5 x Shiva Skunk",
+    "thc": "18-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "terpinolene",
+      "pinene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "pine",
+      "citrus",
+      "herbal haze"
+    ],
+    "experiences": [
+      "clear-headed uplift",
+      "creative focus",
+      "gentle body ease"
+    ],
+    "bestFor": [
+      "daytime brainstorming",
+      "outdoor adventures",
+      "mood lift"
+    ],
+    "popularity": "Namesake cultivar honoring the cannabis activist.",
+    "idealConsumption": "Vaporize at 360\u00b0F or roll a thin joint to savor piney haze notes.",
+    "popularityRank": 15
+  },
+  {
+    "name": "Durban Poison",
+    "aliases": [
+      "durban poison",
+      "durban"
+    ],
+    "type": "Sativa",
+    "lineage": "South African landrace",
+    "thc": "18-23%",
+    "cbd": "<1%",
+    "terpenes": [
+      "terpinolene",
+      "ocimene",
+      "myrcene"
+    ],
+    "aromas": [
+      "sweet anise",
+      "wood",
+      "citrus"
+    ],
+    "experiences": [
+      "energetic mental lift",
+      "laser focus",
+      "sweet, buzzy motivation"
+    ],
+    "bestFor": [
+      "productivity bursts",
+      "errands",
+      "creative problem solving"
+    ],
+    "popularity": "Go-to pure sativa for bright, speedy clarity.",
+    "idealConsumption": "Keep a clean vaporizer around 355\u00b0F for sugary anise flavors.",
+    "popularityRank": 16
+  },
+  {
+    "name": "Super Lemon Haze",
+    "aliases": [
+      "super lemon haze",
+      "slh"
+    ],
+    "type": "Sativa",
+    "lineage": "Lemon Skunk x Super Silver Haze",
+    "thc": "18-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "terpinolene",
+      "ocimene"
+    ],
+    "aromas": [
+      "zesty lemon",
+      "candy",
+      "herbal"
+    ],
+    "experiences": [
+      "bright euphoria",
+      "tingly energy",
+      "creative spark"
+    ],
+    "bestFor": [
+      "social mornings",
+      "art projects",
+      "uplifting exercise sessions"
+    ],
+    "popularity": "Multiple Cup winner famed for citrus punch.",
+    "idealConsumption": "Sip lemon seltzer between vapor pulls at 365\u00b0F to amplify zing.",
+    "popularityRank": 17
+  },
+  {
+    "name": "Bruce Banner",
+    "aliases": [
+      "bruce banner",
+      "banner"
+    ],
+    "type": "Hybrid (sativa-leaning)",
+    "lineage": "Strawberry Diesel x OG Kush",
+    "thc": "20-28%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "myrcene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "diesel",
+      "strawberry",
+      "earth"
+    ],
+    "experiences": [
+      "rapid cerebral rush",
+      "creative motivation",
+      "relaxing body finish"
+    ],
+    "bestFor": [
+      "afternoon projects",
+      "experienced consumers",
+      "balanced mood elevation"
+    ],
+    "popularity": "High-octane hybrid beloved by potency seekers.",
+    "idealConsumption": "Take two vapor pulls and wait; potency creeps quickly.",
+    "popularityRank": 18
+  },
+  {
+    "name": "Strawberry Cough",
+    "aliases": [
+      "strawberry cough"
+    ],
+    "type": "Sativa",
+    "lineage": "Strawberry Fields x Haze",
+    "thc": "17-22%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "pinene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "ripe strawberry",
+      "herbal",
+      "sugar"
+    ],
+    "experiences": [
+      "gentle uplift",
+      "social ease",
+      "clear conversation"
+    ],
+    "bestFor": [
+      "public speaking jitters",
+      "social events",
+      "morning mood boosts"
+    ],
+    "popularity": "Friendly sativa for easing into talkative settings.",
+    "idealConsumption": "Use a clean glass piece to highlight the berry sweetness.",
+    "popularityRank": 19
+  },
+  {
+    "name": "Do-Si-Dos",
+    "aliases": [
+      "do-si-dos",
+      "dosidos"
+    ],
+    "type": "Indica (hybrid-leaning)",
+    "lineage": "OGKB x Face Off OG",
+    "thc": "20-28%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "caryophyllene",
+      "linalool"
+    ],
+    "aromas": [
+      "sweet dough",
+      "funky earth",
+      "floral"
+    ],
+    "experiences": [
+      "deep body comfort",
+      "heavy eyelids",
+      "calming euphoria"
+    ],
+    "bestFor": [
+      "late-night relaxation",
+      "stubborn aches",
+      "soothing anxious spirals"
+    ],
+    "popularity": "Modern indica staple for dessert lovers.",
+    "idealConsumption": "Enjoy as a post-dinner bowl or low-temp rosin dab.",
+    "popularityRank": 20
+  },
+  {
+    "name": "Gelato 33",
+    "aliases": [
+      "gelato 33",
+      "larry bird"
+    ],
+    "type": "Hybrid",
+    "lineage": "Sunset Sherbet x Thin Mint GSC",
+    "thc": "18-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "humulene"
+    ],
+    "aromas": [
+      "sweet cream",
+      "berry",
+      "forest"
+    ],
+    "experiences": [
+      "balanced uplift",
+      "smooth relaxation",
+      "creative bliss"
+    ],
+    "bestFor": [
+      "evening hangs",
+      "comfortably social sessions",
+      "dessert pairings"
+    ],
+    "popularity": "Beloved Gelato phenotype celebrated for creamy terps.",
+    "idealConsumption": "Roll a small cone or vaporize at 365\u00b0F for velvety flavor.",
+    "popularityRank": 21
+  },
+  {
+    "name": "Apple Fritter",
+    "aliases": [
+      "apple fritter"
+    ],
+    "type": "Hybrid",
+    "lineage": "Sour Apple x Animal Cookies",
+    "thc": "20-27%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "pinene"
+    ],
+    "aromas": [
+      "baked apple",
+      "vanilla",
+      "earthy dough"
+    ],
+    "experiences": [
+      "happy relaxation",
+      "warm body buzz",
+      "snack-inviting mood"
+    ],
+    "bestFor": [
+      "weekend brunch sessions",
+      "evening desserts",
+      "creative baking nights"
+    ],
+    "popularity": "Bakery-scented hybrid with cult status.",
+    "idealConsumption": "Pair a mid-temp vape with warm cider to mirror pastry vibes.",
+    "popularityRank": 22
+  },
+  {
+    "name": "Slurricane",
+    "aliases": [
+      "slurricane"
+    ],
+    "type": "Indica",
+    "lineage": "Do-Si-Dos x Purple Punch",
+    "thc": "20-28%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "linalool"
+    ],
+    "aromas": [
+      "grape",
+      "berry",
+      "creamy sweetness"
+    ],
+    "experiences": [
+      "heavy relaxation",
+      "melted muscles",
+      "sleepy comfort"
+    ],
+    "bestFor": [
+      "rainy nights",
+      "deep relaxation rituals",
+      "bedtime wind-downs"
+    ],
+    "popularity": "Beloved for turning busy evenings into slow, cozy nights in.",
+    "idealConsumption": "Infuse into coconut oil for a bedtime edible or enjoy a single joint shared among friends.",
+    "popularityRank": 23
+  },
+  {
+    "name": "Mimosa",
+    "aliases": [
+      "mimosa"
+    ],
+    "type": "Hybrid (sativa-leaning)",
+    "lineage": "Clementine x Purple Punch",
+    "thc": "17-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "beta-pinene",
+      "linalool"
+    ],
+    "aromas": [
+      "orange juice",
+      "tropical fruit",
+      "berry"
+    ],
+    "experiences": [
+      "sparkling energy",
+      "sociable focus",
+      "gentle body relief"
+    ],
+    "bestFor": [
+      "weekend brunches",
+      "daytime creativity",
+      "group sessions"
+    ],
+    "popularity": "Brunch-time favorite thanks to its citrus zing and upbeat clarity.",
+    "idealConsumption": "Vape at 365\u00b0F and sip actual mimosas or sparkling water to complement the citrus bouquet.",
+    "popularityRank": 24
+  },
+  {
+    "name": "Forbidden Fruit",
+    "aliases": [
+      "forbidden fruit"
+    ],
+    "type": "Hybrid (indica-leaning)",
+    "lineage": "Cherry Pie x Tangie",
+    "thc": "18-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "linalool",
+      "beta-caryophyllene"
+    ],
+    "aromas": [
+      "tropical cherry",
+      "grapefruit",
+      "earthy musk"
+    ],
+    "experiences": [
+      "melty calm",
+      "creative drift",
+      "flavor-forward relaxation"
+    ],
+    "bestFor": [
+      "sunset sessions",
+      "artistic unwinding",
+      "music appreciation"
+    ],
+    "popularity": "Treasure for terp chasers who want dessert flavors with a tranquil finish.",
+    "idealConsumption": "Use a terp pen at low temps or roll in flavored papers to spotlight the fruity bouquet.",
+    "popularityRank": 25
+  },
+  {
+    "name": "Green Crack",
+    "aliases": [
+      "green crack",
+      "green cush"
+    ],
+    "type": "Sativa",
+    "lineage": "Skunk #1 x Afghani (rumored)",
+    "thc": "17-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "limonene"
+    ],
+    "aromas": [
+      "mango",
+      "citrus",
+      "earth"
+    ],
+    "experiences": [
+      "snappy focus",
+      "long-lasting energy",
+      "uplifted mood"
+    ],
+    "bestFor": [
+      "midday slumps",
+      "task lists",
+      "outdoor adventures"
+    ],
+    "popularity": "Daytime warrior cultivar famous for keeping energy high without heaviness.",
+    "idealConsumption": "Take one or two vapor pulls at 360\u00b0F or microdose via a joint to stay dialed in without overdoing it.",
+    "popularityRank": 26
+  },
+  {
+    "name": "Purple Haze",
+    "aliases": [
+      "purple haze"
+    ],
+    "type": "Sativa",
+    "lineage": "Purple Thai x Haze",
+    "thc": "16-22%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "pinene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "sweet berry",
+      "earth",
+      "spice"
+    ],
+    "experiences": [
+      "psychedelic uplift",
+      "creative euphoria",
+      "gentle body buzz"
+    ],
+    "bestFor": [
+      "art sessions",
+      "music festivals",
+      "nostalgic throwbacks"
+    ],
+    "popularity": "Counterculture legend immortalized by Hendrix.",
+    "idealConsumption": "Roll classic joints or vaporize at 350\u00b0F for berry-spice aroma.",
+    "popularityRank": 27
+  },
+  {
+    "name": "Trainwreck",
+    "aliases": [
+      "trainwreck"
+    ],
+    "type": "Hybrid (sativa-leaning)",
+    "lineage": "Mexican sativa x Thai x Afghani",
+    "thc": "18-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "terpinolene",
+      "myrcene",
+      "pinene"
+    ],
+    "aromas": [
+      "pine",
+      "lemon",
+      "spice"
+    ],
+    "experiences": [
+      "fast head rush",
+      "creative inspiration",
+      "tingly relaxation"
+    ],
+    "bestFor": [
+      "afternoon hikes",
+      "jam sessions",
+      "easing stress"
+    ],
+    "popularity": "Old-school heady hybrid known for speedy onset.",
+    "idealConsumption": "Use a vape at 360\u00b0F to balance headrush with manageable dose.",
+    "popularityRank": 28
+  },
+  {
+    "name": "Chemdawg",
+    "aliases": [
+      "chemdawg",
+      "chem dawg"
+    ],
+    "type": "Hybrid",
+    "lineage": "Unknown (legendary seed line)",
+    "thc": "18-26%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "myrcene"
+    ],
+    "aromas": [
+      "diesel",
+      "earth",
+      "pine"
+    ],
+    "experiences": [
+      "potent cerebral rush",
+      "body weight",
+      "pungent calm"
+    ],
+    "bestFor": [
+      "evening creativity",
+      "experienced users",
+      "flavor seekers"
+    ],
+    "popularity": "Parent to many modern hybrids thanks to its gas terps.",
+    "idealConsumption": "Grind lightly; glassware keeps fumes contained.",
+    "popularityRank": 29
+  },
+  {
+    "name": "Skywalker OG",
+    "aliases": [
+      "skywalker og"
+    ],
+    "type": "Hybrid (indica-leaning)",
+    "lineage": "Skywalker x OG Kush",
+    "thc": "20-26%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "limonene"
+    ],
+    "aromas": [
+      "diesel",
+      "herbal",
+      "earth"
+    ],
+    "experiences": [
+      "spacey euphoria",
+      "full-body weight",
+      "peaceful sleep"
+    ],
+    "bestFor": [
+      "bedtime transitions",
+      "movie marathons",
+      "deep relaxation"
+    ],
+    "popularity": "Star Wars-inspired hybrid with heavy kush influence.",
+    "idealConsumption": "Bowl hits or dab pens after sundown best capture its mellow.",
+    "popularityRank": 30
+  },
+  {
+    "name": "AK-47",
+    "aliases": [
+      "ak-47",
+      "ak47"
+    ],
+    "type": "Hybrid (sativa-leaning)",
+    "lineage": "Colombian, Mexican, Thai, Afghani",
+    "thc": "17-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "myrcene",
+      "limonene"
+    ],
+    "aromas": [
+      "earth",
+      "sweet",
+      "floral"
+    ],
+    "experiences": [
+      "long-lasting head high",
+      "creative flow",
+      "relaxed body"
+    ],
+    "bestFor": [
+      "daytime tasks",
+      "brainstorming",
+      "social smoking"
+    ],
+    "popularity": "Award-winning hybrid balancing uplift and ease.",
+    "idealConsumption": "Vaporize at 355\u00b0F or roll a classic spliff to stretch sessions.",
+    "popularityRank": 31
+  },
+  {
+    "name": "Lemon Skunk",
+    "aliases": [
+      "lemon skunk"
+    ],
+    "type": "Hybrid (sativa-leaning)",
+    "lineage": "Skunk #1 phenotype",
+    "thc": "16-22%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "myrcene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "lemon",
+      "skunk",
+      "sweet"
+    ],
+    "experiences": [
+      "uplifting citrus buzz",
+      "motivated focus",
+      "happy energy"
+    ],
+    "bestFor": [
+      "creative sprints",
+      "morning mood boosts",
+      "outdoor fun"
+    ],
+    "popularity": "Citric skunk classic with award pedigree.",
+    "idealConsumption": "Roll thin joints or vaporize at 350\u00b0F to accent the lemon zing.",
+    "popularityRank": 32
+  },
+  {
+    "name": "Cherry Pie",
+    "aliases": [
+      "cherry pie"
+    ],
+    "type": "Hybrid",
+    "lineage": "Granddaddy Purple x Durban Poison",
+    "thc": "16-23%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "myrcene",
+      "pinene"
+    ],
+    "aromas": [
+      "cherry",
+      "pastry",
+      "earth"
+    ],
+    "experiences": [
+      "cozy euphoria",
+      "relaxed muscles",
+      "sweet nostalgia"
+    ],
+    "bestFor": [
+      "after-dinner desserts",
+      "creative baking",
+      "date nights"
+    ],
+    "popularity": "Dessert hybrid with pastry aromatics and balanced high.",
+    "idealConsumption": "Enjoy in glassware to preserve tart cherry aroma.",
+    "popularityRank": 33
+  },
+  {
+    "name": "Banana Kush",
+    "aliases": [
+      "banana kush"
+    ],
+    "type": "Hybrid (indica-leaning)",
+    "lineage": "Ghost OG x Skunk Haze",
+    "thc": "18-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "limonene"
+    ],
+    "aromas": [
+      "banana",
+      "tropical",
+      "earth"
+    ],
+    "experiences": [
+      "dreamy cerebral haze",
+      "loose body",
+      "content mood"
+    ],
+    "bestFor": [
+      "late-night creativity",
+      "stress melt",
+      "lounging"
+    ],
+    "popularity": "Relaxed tropical hybrid for night owls.",
+    "idealConsumption": "Pair with chilled fruit smoothies or vape at 350\u00b0F.",
+    "popularityRank": 34
+  },
+  {
+    "name": "Sunset Sherbet",
+    "aliases": [
+      "sunset sherbet"
+    ],
+    "type": "Hybrid",
+    "lineage": "Girl Scout Cookies x Pink Panties",
+    "thc": "18-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "humulene"
+    ],
+    "aromas": [
+      "berry",
+      "citrus",
+      "candy"
+    ],
+    "experiences": [
+      "uplifted relaxation",
+      "creative bliss",
+      "dessert-like calm"
+    ],
+    "bestFor": [
+      "early evening",
+      "art nights",
+      "social dessert pairings"
+    ],
+    "popularity": "Sherbinski original with sherbet sweetness.",
+    "idealConsumption": "Best as a lightly packed bowl or terp pen to savor candy notes.",
+    "popularityRank": 35
+  },
+  {
+    "name": "Tangie",
+    "aliases": [
+      "tangie"
+    ],
+    "type": "Sativa",
+    "lineage": "California Orange x Skunk",
+    "thc": "17-22%",
+    "cbd": "<1%",
+    "terpenes": [
+      "terpinolene",
+      "myrcene",
+      "pinene"
+    ],
+    "aromas": [
+      "tangerine",
+      "citrus",
+      "sweet"
+    ],
+    "experiences": [
+      "electric uplift",
+      "creative focus",
+      "sunny mood"
+    ],
+    "bestFor": [
+      "studio sessions",
+      "daytime adventures",
+      "live resin fans"
+    ],
+    "popularity": "Mandarin-forward sativa beloved by rosin makers.",
+    "idealConsumption": "Fresh-pressed rosin or 355\u00b0F vape keeps citrus sparkling.",
+    "popularityRank": 36
+  },
+  {
+    "name": "Cinex",
+    "aliases": [
+      "cinex"
+    ],
+    "type": "Sativa",
+    "lineage": "Cinderella 99 x Vortex",
+    "thc": "18-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "terpinolene",
+      "pinene"
+    ],
+    "aromas": [
+      "citrus",
+      "earth",
+      "skunk"
+    ],
+    "experiences": [
+      "clear energy",
+      "creative focus",
+      "uplifting motivation"
+    ],
+    "bestFor": [
+      "helping with chores",
+      "studying",
+      "daytime projects"
+    ],
+    "popularity": "Pacific Northwest staple for cheerful productivity.",
+    "idealConsumption": "Vaporize at 360\u00b0F for clean citrus energy.",
+    "popularityRank": 37
+  },
+  {
+    "name": "Alien OG",
+    "aliases": [
+      "alien og"
+    ],
+    "type": "Hybrid",
+    "lineage": "Alien Kush x Tahoe OG",
+    "thc": "20-26%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "myrcene"
+    ],
+    "aromas": [
+      "pine",
+      "citrus",
+      "earth"
+    ],
+    "experiences": [
+      "potent body buzz",
+      "psychedelic spark",
+      "relaxed calm"
+    ],
+    "bestFor": [
+      "evenings in",
+      "experienced consumers",
+      "relief from tension"
+    ],
+    "popularity": "Potent OG hybrid with extraterrestrial branding.",
+    "idealConsumption": "Use in glass rigs or low-temp dabs to moderate intensity.",
+    "popularityRank": 38
+  },
+  {
+    "name": "Larry OG",
+    "aliases": [
+      "larry og",
+      "lemon larry"
+    ],
+    "type": "Hybrid (indica-leaning)",
+    "lineage": "OG Kush x SFV OG",
+    "thc": "19-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "myrcene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "lemon",
+      "pine",
+      "earth"
+    ],
+    "experiences": [
+      "calm happiness",
+      "steady body ease",
+      "relaxed clarity"
+    ],
+    "bestFor": [
+      "after-work wind down",
+      "casual socializing",
+      "gentle pain relief"
+    ],
+    "popularity": "Citrus OG cut famed for functional calm.",
+    "idealConsumption": "Pack in a bubbler or vape at 350\u00b0F for lemon zest.",
+    "popularityRank": 39
+  },
+  {
+    "name": "Platinum OG",
+    "aliases": [
+      "platinum og"
+    ],
+    "type": "Indica",
+    "lineage": "Master Kush x OG Kush x unknown",
+    "thc": "20-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "limonene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "earth",
+      "herbal",
+      "pine"
+    ],
+    "experiences": [
+      "heavy relaxation",
+      "sleep ready",
+      "comforting weight"
+    ],
+    "bestFor": [
+      "insomnia",
+      "stress overload",
+      "physical discomfort"
+    ],
+    "popularity": "Frosted indica prized for knockout body melt.",
+    "idealConsumption": "Ideal as a nightcap bowl or infused honey before bed.",
+    "popularityRank": 40
+  },
+  {
+    "name": "Critical Mass",
+    "aliases": [
+      "critical mass"
+    ],
+    "type": "Indica",
+    "lineage": "Afghani x Skunk #1",
+    "thc": "18-22%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "linalool"
+    ],
+    "aromas": [
+      "earth",
+      "sweet",
+      "spice"
+    ],
+    "experiences": [
+      "full-body calm",
+      "soothing relief",
+      "sleep support"
+    ],
+    "bestFor": [
+      "muscle tension",
+      "nighttime use",
+      "calming anxious thoughts"
+    ],
+    "popularity": "High-yield indica mainstay for growers and patients.",
+    "idealConsumption": "Best in vaporizers around 345\u00b0F or as homemade tinctures.",
+    "popularityRank": 41
+  },
+  {
+    "name": "Blueberry",
+    "aliases": [
+      "blueberry"
+    ],
+    "type": "Indica",
+    "lineage": "Afghani x Thai x Purple Thai",
+    "thc": "16-22%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "pinene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "sweet berry",
+      "earth",
+      "floral"
+    ],
+    "experiences": [
+      "calming euphoria",
+      "body relaxation",
+      "content mood"
+    ],
+    "bestFor": [
+      "evening reading",
+      "stress melt",
+      "restful sleep"
+    ],
+    "popularity": "1990s Cup winner with nostalgic berry flavor.",
+    "idealConsumption": "Vape at 340\u00b0F to keep blueberry sweetness intact.",
+    "popularityRank": 42
+  },
+  {
+    "name": "LA Confidential",
+    "aliases": [
+      "la confidential"
+    ],
+    "type": "Indica",
+    "lineage": "Afghani x OG LA Affie",
+    "thc": "19-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "limonene"
+    ],
+    "aromas": [
+      "pine",
+      "earth",
+      "skunk"
+    ],
+    "experiences": [
+      "sedating calm",
+      "spicy relaxation",
+      "dreamy introspection"
+    ],
+    "bestFor": [
+      "nighttime relief",
+      "meditation",
+      "quiet creative work"
+    ],
+    "popularity": "Hollywood staple with a classic indica profile.",
+    "idealConsumption": "Enjoy in rolled cones or vapes around 345\u00b0F.",
+    "popularityRank": 43
+  },
+  {
+    "name": "Ice Cream Cake",
+    "aliases": [
+      "ice cream cake"
+    ],
+    "type": "Indica (hybrid-leaning)",
+    "lineage": "Wedding Cake x Gelato #33",
+    "thc": "20-27%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "caryophyllene",
+      "linalool"
+    ],
+    "aromas": [
+      "sweet vanilla",
+      "cream",
+      "earth"
+    ],
+    "experiences": [
+      "soothing body melt",
+      "blissful calm",
+      "dessert satisfaction"
+    ],
+    "bestFor": [
+      "movie nights",
+      "dessert pairings",
+      "restorative evenings"
+    ],
+    "popularity": "Decadent dessert cultivar popular in modern menus.",
+    "idealConsumption": "Low-temp dabs or terp slurpers highlight the icing-like terps.",
+    "popularityRank": 44
+  },
+  {
+    "name": "Zkittlez",
+    "aliases": [
+      "zkittlez",
+      "skittles"
+    ],
+    "type": "Hybrid (indica-leaning)",
+    "lineage": "Grape Ape x Grapefruit x mystery",
+    "thc": "17-22%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "humulene",
+      "linalool"
+    ],
+    "aromas": [
+      "fruit candy",
+      "berry",
+      "grape"
+    ],
+    "experiences": [
+      "relaxed happiness",
+      "flavor-forward calm",
+      "gentle euphoria"
+    ],
+    "bestFor": [
+      "flavor chasers",
+      "late afternoon",
+      "social relaxation"
+    ],
+    "popularity": "Terp trophy winner adored for candy aromatics.",
+    "idealConsumption": "Use a terp pen or low-temp dab to unleash the candy bowl.",
+    "popularityRank": 45
+  },
+  {
+    "name": "Jealousy",
+    "aliases": [
+      "jealousy"
+    ],
+    "type": "Hybrid",
+    "lineage": "Lemon Cherry Gelato x Gelato 41",
+    "thc": "18-26%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "caryophyllene",
+      "linalool"
+    ],
+    "aromas": [
+      "sweet gas",
+      "berry",
+      "cream"
+    ],
+    "experiences": [
+      "uplifted calm",
+      "balanced body high",
+      "social ease"
+    ],
+    "bestFor": [
+      "evening lounges",
+      "creative sessions",
+      "sharing with friends"
+    ],
+    "popularity": "2022 hype strain with trophy pedigree.",
+    "idealConsumption": "Best in freshly ground joints to capture dessert-gas bouquet.",
+    "popularityRank": 46
+  },
+  {
+    "name": "Peanut Butter Breath",
+    "aliases": [
+      "peanut butter breath",
+      "pb breath"
+    ],
+    "type": "Hybrid (indica-leaning)",
+    "lineage": "Do-Si-Dos x Mendo Breath",
+    "thc": "18-26%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "humulene"
+    ],
+    "aromas": [
+      "nutty",
+      "earth",
+      "herbal"
+    ],
+    "experiences": [
+      "calm relaxation",
+      "spacious head high",
+      "snacky vibes"
+    ],
+    "bestFor": [
+      "evening snacks",
+      "stress release",
+      "creative downtime"
+    ],
+    "popularity": "Unique nutty terp profile loved by flavor chasers.",
+    "idealConsumption": "Pack in a dry pipe or vape at 350\u00b0F for roasted peanut notes.",
+    "popularityRank": 47
+  },
+  {
+    "name": "GMO Cookies",
+    "aliases": [
+      "gmo cookies",
+      "garlic cookies"
+    ],
+    "type": "Hybrid (indica-leaning)",
+    "lineage": "Chemdawg x GSC",
+    "thc": "20-28%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "myrcene"
+    ],
+    "aromas": [
+      "garlic",
+      "diesel",
+      "earth"
+    ],
+    "experiences": [
+      "heavy body melt",
+      "stoned euphoria",
+      "long-lasting relaxation"
+    ],
+    "bestFor": [
+      "late-night recovery",
+      "relief from tension",
+      "experienced users"
+    ],
+    "popularity": "Pungent garlic funk that wins extract competitions.",
+    "idealConsumption": "Low-temp dabs or short joint pulls tame the intense flavor.",
+    "popularityRank": 48
+  },
+  {
+    "name": "Khalifa Kush",
+    "aliases": [
+      "khalifa kush",
+      "kk"
+    ],
+    "type": "Hybrid (sativa-leaning)",
+    "lineage": "OG Kush descendant",
+    "thc": "22-26%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "caryophyllene",
+      "myrcene"
+    ],
+    "aromas": [
+      "citrus",
+      "diesel",
+      "pine"
+    ],
+    "experiences": [
+      "euphoric uplift",
+      "creative clarity",
+      "strong relaxation"
+    ],
+    "bestFor": [
+      "music sessions",
+      "day-to-night versatility",
+      "fans of OG"
+    ],
+    "popularity": "Rapper Wiz Khalifa's signature strain.",
+    "idealConsumption": "Roll clean joints or vaporize to highlight citrus-diesel profile.",
+    "popularityRank": 49
+  },
+  {
+    "name": "MAC 1",
+    "aliases": [
+      "mac 1",
+      "miracle alien cookies 1"
+    ],
+    "type": "Hybrid",
+    "lineage": "Alien Cookies F2 x Miracle 15",
+    "thc": "20-27%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "pinene"
+    ],
+    "aromas": [
+      "cream",
+      "diesel",
+      "citrus"
+    ],
+    "experiences": [
+      "even-keeled euphoria",
+      "cushioned body",
+      "creative spark"
+    ],
+    "bestFor": [
+      "art sessions",
+      "social relaxation",
+      "evening balance"
+    ],
+    "popularity": "Clone-only cultivar prized for frosty bag appeal.",
+    "idealConsumption": "Vaporize at 365\u00b0F or enjoy hash rosin for terp-rich experience.",
+    "popularityRank": 50
+  },
+  {
+    "name": "Super Silver Haze",
+    "aliases": [
+      "super silver haze",
+      "ssh"
+    ],
+    "type": "Sativa",
+    "lineage": "Skunk x Northern Lights x Haze",
+    "thc": "18-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "terpinolene",
+      "myrcene",
+      "ocimene"
+    ],
+    "aromas": [
+      "spicy haze",
+      "citrus",
+      "herbal"
+    ],
+    "experiences": [
+      "long-lasting cerebral uplift",
+      "creative focus",
+      "energetic clarity"
+    ],
+    "bestFor": [
+      "daytime tasks",
+      "exercise",
+      "motivation"
+    ],
+    "popularity": "Three-time Cup winner from the late 90s.",
+    "idealConsumption": "Best vaporized around 360\u00b0F to keep the haze spice.",
+    "popularityRank": 51
+  },
+  {
+    "name": "Lemon Tree",
+    "aliases": [
+      "lemon tree"
+    ],
+    "type": "Hybrid",
+    "lineage": "Lemon Skunk x Sour Diesel",
+    "thc": "18-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "caryophyllene",
+      "myrcene"
+    ],
+    "aromas": [
+      "fresh lemon",
+      "diesel",
+      "earth"
+    ],
+    "experiences": [
+      "relaxed uplift",
+      "balanced body",
+      "sunny disposition"
+    ],
+    "bestFor": [
+      "afternoon lounging",
+      "creative tasks",
+      "citrus lovers"
+    ],
+    "popularity": "Citrus-fuel hybrid cherished by terp chasers.",
+    "idealConsumption": "Use clean glassware or vapes at 350\u00b0F to capture citrus funk.",
+    "popularityRank": 52
+  },
+  {
+    "name": "Lemon Diesel",
+    "aliases": [
+      "lemon diesel"
+    ],
+    "type": "Hybrid",
+    "lineage": "California Sour x Lost Coast OG",
+    "thc": "18-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "caryophyllene",
+      "myrcene"
+    ],
+    "aromas": [
+      "lemon",
+      "diesel",
+      "spice"
+    ],
+    "experiences": [
+      "uplifting calm",
+      "creative buzz",
+      "relaxed body"
+    ],
+    "bestFor": [
+      "balanced daytime use",
+      "social scenes",
+      "stress relief"
+    ],
+    "popularity": "NorCal hybrid blending zest with gas.",
+    "idealConsumption": "Roll short joints or vaporize at 355\u00b0F for tangy fuel.",
+    "popularityRank": 53
+  },
+  {
+    "name": "Orange Creamsicle",
+    "aliases": [
+      "orange creamsicle"
+    ],
+    "type": "Hybrid (sativa-leaning)",
+    "lineage": "Orange Crush x Juicy Fruit",
+    "thc": "16-21%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "myrcene",
+      "terpinolene"
+    ],
+    "aromas": [
+      "orange",
+      "vanilla",
+      "cream"
+    ],
+    "experiences": [
+      "uplifted calm",
+      "mood boost",
+      "gentle relaxation"
+    ],
+    "bestFor": [
+      "summer afternoons",
+      "creative play",
+      "light sessions"
+    ],
+    "popularity": "Dessert strain delivering nostalgic orange-vanilla notes.",
+    "idealConsumption": "Enjoy through a terp pen at lower temps for creamy sweetness.",
+    "popularityRank": 54
+  },
+  {
+    "name": "Gelato #41",
+    "aliases": [
+      "gelato #41",
+      "bacio gelato"
+    ],
+    "type": "Hybrid",
+    "lineage": "Sunset Sherbet x Thin Mint GSC",
+    "thc": "19-26%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "humulene"
+    ],
+    "aromas": [
+      "sweet cream",
+      "berry",
+      "gas"
+    ],
+    "experiences": [
+      "relaxed euphoria",
+      "balanced calm",
+      "creative clarity"
+    ],
+    "bestFor": [
+      "evening relaxation",
+      "social circles",
+      "dessert pairings"
+    ],
+    "popularity": "Gelato phenotype favored for gas-meets-dessert nose.",
+    "idealConsumption": "Tightly rolled blunts or terp pens highlight layered terps.",
+    "popularityRank": 55
+  },
+  {
+    "name": "Bubble Gum",
+    "aliases": [
+      "bubble gum"
+    ],
+    "type": "Hybrid",
+    "lineage": "Indiana Bubblegum",
+    "thc": "16-22%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "linalool"
+    ],
+    "aromas": [
+      "bubblegum",
+      "sweet",
+      "floral"
+    ],
+    "experiences": [
+      "mellow euphoria",
+      "creative calm",
+      "nostalgic sweetness"
+    ],
+    "bestFor": [
+      "music sessions",
+      "casual socializing",
+      "stress relief"
+    ],
+    "popularity": "Award-winning strain from the mid-90s.",
+    "idealConsumption": "Use a glass one-hitter or vape at 345\u00b0F for sugary inhale.",
+    "popularityRank": 56
+  },
+  {
+    "name": "Jack Frost",
+    "aliases": [
+      "jack frost"
+    ],
+    "type": "Sativa",
+    "lineage": "Jack Herer x Northern Lights #5 x Rainbow Kashmiri",
+    "thc": "17-22%",
+    "cbd": "<1%",
+    "terpenes": [
+      "pinene",
+      "terpinolene",
+      "myrcene"
+    ],
+    "aromas": [
+      "pine",
+      "citrus",
+      "mint"
+    ],
+    "experiences": [
+      "fresh clarity",
+      "creative lift",
+      "social ease"
+    ],
+    "bestFor": [
+      "daytime adventures",
+      "conversation",
+      "art projects"
+    ],
+    "popularity": "Frosty sativa named for its snowy trichomes.",
+    "idealConsumption": "Vaporize at 360\u00b0F or use a clean bubbler for crisp flavors.",
+    "popularityRank": 57
+  },
+  {
+    "name": "Blackberry Kush",
+    "aliases": [
+      "blackberry kush"
+    ],
+    "type": "Indica",
+    "lineage": "Afghani x Blackberry",
+    "thc": "17-23%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "limonene"
+    ],
+    "aromas": [
+      "blackberry",
+      "earth",
+      "diesel"
+    ],
+    "experiences": [
+      "soothing sedation",
+      "sweet relaxation",
+      "body relief"
+    ],
+    "bestFor": [
+      "bedtime routines",
+      "pain relief",
+      "stress reduction"
+    ],
+    "popularity": "Sedative indica with syrupy berry aroma.",
+    "idealConsumption": "Ideal in evening vapes or infused honey for bedtime tea.",
+    "popularityRank": 58
+  },
+  {
+    "name": "God's Gift",
+    "aliases": [
+      "god's gift",
+      "gods gift"
+    ],
+    "type": "Indica",
+    "lineage": "Granddaddy Purple x OG Kush",
+    "thc": "18-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "limonene"
+    ],
+    "aromas": [
+      "grape",
+      "earth",
+      "citrus"
+    ],
+    "experiences": [
+      "deep relaxation",
+      "uplifted serenity",
+      "sleepy calm"
+    ],
+    "bestFor": [
+      "insomnia",
+      "stress relief",
+      "end-of-day comfort"
+    ],
+    "popularity": "Heavily relaxing indica with a spiritual reputation.",
+    "idealConsumption": "Vape at 340\u00b0F or roll a small joint before bed.",
+    "popularityRank": 59
+  },
+  {
+    "name": "Romulan",
+    "aliases": [
+      "romulan"
+    ],
+    "type": "Indica",
+    "lineage": "Northwest landrace hybrid",
+    "thc": "18-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "pinene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "pine",
+      "earth",
+      "spice"
+    ],
+    "experiences": [
+      "spacey calm",
+      "body soothing",
+      "relaxed focus"
+    ],
+    "bestFor": [
+      "pain management",
+      "evening chill",
+      "sci-fi movie nights"
+    ],
+    "popularity": "Spacefaring indica named after Star Trek lore.",
+    "idealConsumption": "Enjoy in small bowls for piney sedation.",
+    "popularityRank": 60
+  },
+  {
+    "name": "Chocolope",
+    "aliases": [
+      "chocolope",
+      "chocolate thai"
+    ],
+    "type": "Sativa",
+    "lineage": "Chocolate Thai x Cannalope Haze",
+    "thc": "18-23%",
+    "cbd": "<1%",
+    "terpenes": [
+      "terpinolene",
+      "myrcene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "chocolate",
+      "coffee",
+      "sweet"
+    ],
+    "experiences": [
+      "energizing focus",
+      "euphoric uplift",
+      "creative thinking"
+    ],
+    "bestFor": [
+      "morning use",
+      "art projects",
+      "daytime tasks"
+    ],
+    "popularity": "Coffee-and-cocoa sativa for breakfast sessions.",
+    "idealConsumption": "Vaporize at 360\u00b0F or roll with a coffee pairing.",
+    "popularityRank": 61
+  },
+  {
+    "name": "Agent Orange",
+    "aliases": [
+      "agent orange"
+    ],
+    "type": "Hybrid (sativa-leaning)",
+    "lineage": "Orange Velvet x Jack the Ripper",
+    "thc": "16-22%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "myrcene",
+      "terpinolene"
+    ],
+    "aromas": [
+      "orange",
+      "citrus",
+      "spice"
+    ],
+    "experiences": [
+      "cheerful motivation",
+      "creative energy",
+      "balanced body"
+    ],
+    "bestFor": [
+      "chores",
+      "crafting",
+      "daytime uplift"
+    ],
+    "popularity": "Citrusy classic with comic-book origins.",
+    "idealConsumption": "Use a vape at 355\u00b0F for juicy orange zest.",
+    "popularityRank": 62
+  },
+  {
+    "name": "Dutch Treat",
+    "aliases": [
+      "dutch treat"
+    ],
+    "type": "Hybrid",
+    "lineage": "Northern Lights x Haze",
+    "thc": "18-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "terpinolene",
+      "myrcene"
+    ],
+    "aromas": [
+      "pine",
+      "eucalyptus",
+      "sweet"
+    ],
+    "experiences": [
+      "cozy euphoria",
+      "relaxed focus",
+      "uplifted mood"
+    ],
+    "bestFor": [
+      "evening socializing",
+      "reading",
+      "creative downtime"
+    ],
+    "popularity": "Amsterdam coffee shop legend popular in the Northwest.",
+    "idealConsumption": "Enjoy in a vaporizer around 350\u00b0F for eucalyptus sweetness.",
+    "popularityRank": 63
+  },
+  {
+    "name": "Acapulco Gold",
+    "aliases": [
+      "acapulco gold"
+    ],
+    "type": "Sativa",
+    "lineage": "Mexican landrace",
+    "thc": "19-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "limonene"
+    ],
+    "aromas": [
+      "toffee",
+      "spice",
+      "citrus"
+    ],
+    "experiences": [
+      "energized happiness",
+      "creative spark",
+      "classic head high"
+    ],
+    "bestFor": [
+      "daytime adventures",
+      "nostalgic sessions",
+      "outdoor fun"
+    ],
+    "popularity": "Old-school sativa prized since the 60s.",
+    "idealConsumption": "Keep joints thin and flavorful to honor the heritage.",
+    "popularityRank": 64
+  },
+  {
+    "name": "Blueberry Muffin",
+    "aliases": [
+      "blueberry muffin"
+    ],
+    "type": "Hybrid",
+    "lineage": "Blueberry x Purple Panty Dropper",
+    "thc": "17-22%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "pinene"
+    ],
+    "aromas": [
+      "blueberry muffin",
+      "vanilla",
+      "earth"
+    ],
+    "experiences": [
+      "cozy calm",
+      "uplifted mood",
+      "dessert vibes"
+    ],
+    "bestFor": [
+      "tea time",
+      "lazy weekends",
+      "stress reduction"
+    ],
+    "popularity": "NorCal favorite with bakery terps.",
+    "idealConsumption": "Enjoy in a dry pipe or low-temp vape to keep pastry notes.",
+    "popularityRank": 65
+  },
+  {
+    "name": "Candyland",
+    "aliases": [
+      "candyland"
+    ],
+    "type": "Sativa",
+    "lineage": "Granddaddy Purple x Platinum Cookies",
+    "thc": "18-23%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "pinene",
+      "humulene"
+    ],
+    "aromas": [
+      "sweet",
+      "earth",
+      "spice"
+    ],
+    "experiences": [
+      "uplifted energy",
+      "social buzz",
+      "creative spark"
+    ],
+    "bestFor": [
+      "parties",
+      "gaming sessions",
+      "motivating mornings"
+    ],
+    "popularity": "Sativa with sweet GDP influence.",
+    "idealConsumption": "Roll flavorful joints or vaporize at 355\u00b0F for sweet spice.",
+    "popularityRank": 66
+  },
+  {
+    "name": "Cookies and Cream",
+    "aliases": [
+      "cookies and cream",
+      "cookies n cream"
+    ],
+    "type": "Hybrid",
+    "lineage": "Starfighter x unknown GSC phenotype",
+    "thc": "18-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "linalool"
+    ],
+    "aromas": [
+      "sweet cream",
+      "vanilla",
+      "earth"
+    ],
+    "experiences": [
+      "balanced relaxation",
+      "happy calm",
+      "dessert satisfaction"
+    ],
+    "bestFor": [
+      "date night",
+      "wind-down",
+      "dessert pairings"
+    ],
+    "popularity": "Cup winner with creamy sweetness.",
+    "idealConsumption": "Low-temp dab or vape to emphasize vanilla undertones.",
+    "popularityRank": 67
+  },
+  {
+    "name": "Death Star",
+    "aliases": [
+      "death star"
+    ],
+    "type": "Indica",
+    "lineage": "Sensi Star x Sour Diesel",
+    "thc": "20-27%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "myrcene",
+      "limonene"
+    ],
+    "aromas": [
+      "diesel",
+      "earth",
+      "skunk"
+    ],
+    "experiences": [
+      "heavy relaxation",
+      "sleepy calm",
+      "deep relief"
+    ],
+    "bestFor": [
+      "insomnia",
+      "stress reduction",
+      "evening sessions"
+    ],
+    "popularity": "Potent indica with sci-fi flair.",
+    "idealConsumption": "Use in small bowls or vape at 335\u00b0F to manage potency.",
+    "popularityRank": 68
+  },
+  {
+    "name": "Eleven Roses",
+    "aliases": [
+      "eleven roses"
+    ],
+    "type": "Indica",
+    "lineage": "Sugar Black Rose x Appalachian Kush",
+    "thc": "20-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "humulene"
+    ],
+    "aromas": [
+      "floral",
+      "fruit",
+      "earth"
+    ],
+    "experiences": [
+      "relaxed body",
+      "calming mind",
+      "sleep support"
+    ],
+    "bestFor": [
+      "evening relief",
+      "stress melt",
+      "cozy nights"
+    ],
+    "popularity": "Spanish-bred indica admired for resilience and flavor.",
+    "idealConsumption": "Enjoy as hash or flower to appreciate floral sweetness.",
+    "popularityRank": 69
+  },
+  {
+    "name": "Fire OG",
+    "aliases": [
+      "fire og"
+    ],
+    "type": "Hybrid (indica-leaning)",
+    "lineage": "OG Kush x SFV OG",
+    "thc": "20-28%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "caryophyllene",
+      "myrcene"
+    ],
+    "aromas": [
+      "lemon",
+      "fuel",
+      "herbal"
+    ],
+    "experiences": [
+      "powerful euphoria",
+      "body warmth",
+      "long-lasting calm"
+    ],
+    "bestFor": [
+      "experienced consumers",
+      "stress relief",
+      "evening lounging"
+    ],
+    "popularity": "One of the strongest OG cuts with fiery potency.",
+    "idealConsumption": "Take very small hits or low-temp dabs to gauge tolerance.",
+    "popularityRank": 70
+  },
+  {
+    "name": "Ghost Train Haze",
+    "aliases": [
+      "ghost train haze"
+    ],
+    "type": "Sativa",
+    "lineage": "Ghost OG x Neville's Wreck",
+    "thc": "19-27%",
+    "cbd": "<1%",
+    "terpenes": [
+      "terpinolene",
+      "limonene",
+      "myrcene"
+    ],
+    "aromas": [
+      "citrus",
+      "floral",
+      "earth"
+    ],
+    "experiences": [
+      "psychedelic uplift",
+      "creative focus",
+      "crisp energy"
+    ],
+    "bestFor": [
+      "artists",
+      "experienced users",
+      "daytime exploration"
+    ],
+    "popularity": "Potent haze celebrated for mind-expanding clarity.",
+    "idealConsumption": "Microdose via vaporizer around 360\u00b0F to stay functional.",
+    "popularityRank": 71
+  },
+  {
+    "name": "Golden Goat",
+    "aliases": [
+      "golden goat"
+    ],
+    "type": "Hybrid (sativa-leaning)",
+    "lineage": "Island Sweet Skunk x Romulan x Hawaiian",
+    "thc": "18-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "terpinolene",
+      "myrcene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "tropical",
+      "sweet",
+      "spice"
+    ],
+    "experiences": [
+      "bright euphoria",
+      "creative warmth",
+      "body comfort"
+    ],
+    "bestFor": [
+      "festivals",
+      "daytime socializing",
+      "mood elevation"
+    ],
+    "popularity": "Kansas-born hybrid with sunshine energy.",
+    "idealConsumption": "Enjoy in a clean pipe or vape for tropical sweetness.",
+    "popularityRank": 72
+  },
+  {
+    "name": "Grape Ape",
+    "aliases": [
+      "grape ape"
+    ],
+    "type": "Indica",
+    "lineage": "Mendocino Purps x Skunk x Afghani",
+    "thc": "18-23%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "pinene"
+    ],
+    "aromas": [
+      "grape",
+      "sweet",
+      "earth"
+    ],
+    "experiences": [
+      "body sedation",
+      "calming mind",
+      "sleep-ready relaxation"
+    ],
+    "bestFor": [
+      "stress relief",
+      "nighttime use",
+      "muscle tension"
+    ],
+    "popularity": "Purple indica adored for grape candy aroma.",
+    "idealConsumption": "Best enjoyed near bedtime in a pipe or vape.",
+    "popularityRank": 73
+  },
+  {
+    "name": "Grease Monkey",
+    "aliases": [
+      "grease monkey"
+    ],
+    "type": "Hybrid (indica-leaning)",
+    "lineage": "Gorilla Glue #4 x Cookies and Cream",
+    "thc": "20-27%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "humulene"
+    ],
+    "aromas": [
+      "diesel",
+      "sweet",
+      "earth"
+    ],
+    "experiences": [
+      "lazy relaxation",
+      "deep calm",
+      "snacky contentment"
+    ],
+    "bestFor": [
+      "day-off lounging",
+      "pain relief",
+      "decompression"
+    ],
+    "popularity": "Sticky hybrid with gas-meets-dessert profile.",
+    "idealConsumption": "Use a vaporizer or hand pipe for thick, sweet diesel flavor.",
+    "popularityRank": 74
+  },
+  {
+    "name": "Headband",
+    "aliases": [
+      "headband"
+    ],
+    "type": "Hybrid",
+    "lineage": "Sour Diesel x OG Kush",
+    "thc": "18-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "myrcene"
+    ],
+    "aromas": [
+      "diesel",
+      "lemon",
+      "earth"
+    ],
+    "experiences": [
+      "pressure halos",
+      "creative calm",
+      "mellow euphoria"
+    ],
+    "bestFor": [
+      "chill weekends",
+      "movie nights",
+      "focus work"
+    ],
+    "popularity": "Named for the forehead sensation it can produce.",
+    "idealConsumption": "Roll small joints or vape to manage the heavy OG influence.",
+    "popularityRank": 75
+  },
+  {
+    "name": "Holy Grail Kush",
+    "aliases": [
+      "holy grail kush"
+    ],
+    "type": "Hybrid (indica-leaning)",
+    "lineage": "Kosher Kush x OG #18",
+    "thc": "20-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "limonene"
+    ],
+    "aromas": [
+      "earth",
+      "pine",
+      "citrus"
+    ],
+    "experiences": [
+      "calming relief",
+      "soothing body",
+      "uplifted mood"
+    ],
+    "bestFor": [
+      "evening relaxation",
+      "stress relief",
+      "pain support"
+    ],
+    "popularity": "Cup-winning kush boasting rich piney terps.",
+    "idealConsumption": "Use a clean bong or vape at 345\u00b0F for pine citrus notes.",
+    "popularityRank": 76
+  },
+  {
+    "name": "Jillybean",
+    "aliases": [
+      "jillybean",
+      "jilly bean"
+    ],
+    "type": "Hybrid (sativa-leaning)",
+    "lineage": "Orange Velvet x Space Queen",
+    "thc": "16-21%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "myrcene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "orange",
+      "mango",
+      "sweet"
+    ],
+    "experiences": [
+      "uplifted energy",
+      "creative joy",
+      "friendly relaxation"
+    ],
+    "bestFor": [
+      "art",
+      "social gatherings",
+      "daytime fun"
+    ],
+    "popularity": "Sweet citrus hybrid bred by TGA Subcool.",
+    "idealConsumption": "Enjoy in a sherbet pipe or vape for candy citrus notes.",
+    "popularityRank": 77
+  },
+  {
+    "name": "LA Kush Cake",
+    "aliases": [
+      "la kush cake"
+    ],
+    "type": "Indica",
+    "lineage": "Wedding Cake x Kush Mints",
+    "thc": "20-27%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "linalool"
+    ],
+    "aromas": [
+      "vanilla",
+      "mint",
+      "earth"
+    ],
+    "experiences": [
+      "heavy calm",
+      "melted muscles",
+      "dessert-like bliss"
+    ],
+    "bestFor": [
+      "evening decompression",
+      "sleep prep",
+      "dessert pairing"
+    ],
+    "popularity": "Minty dessert indica from Los Angeles breeders.",
+    "idealConsumption": "Best as rosin dabs or small bowls to savor vanilla-mint.",
+    "popularityRank": 78
+  },
+  {
+    "name": "Lemon Kush",
+    "aliases": [
+      "lemon kush"
+    ],
+    "type": "Hybrid",
+    "lineage": "Afghan Kush x Lemon G",
+    "thc": "16-22%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "caryophyllene",
+      "myrcene"
+    ],
+    "aromas": [
+      "lemon",
+      "earth",
+      "herbal"
+    ],
+    "experiences": [
+      "balanced calm",
+      "cheerful uplift",
+      "tasteful relaxation"
+    ],
+    "bestFor": [
+      "afternoon ease",
+      "culinary pairings",
+      "stress relief"
+    ],
+    "popularity": "Balanced hybrid with refreshing citrus edge.",
+    "idealConsumption": "Vape at 350\u00b0F or squeeze fresh lemon into sparkling water alongside.",
+    "popularityRank": 79
+  },
+  {
+    "name": "Lucid Blue",
+    "aliases": [
+      "lucid blue"
+    ],
+    "type": "Sativa",
+    "lineage": "Blue Dream x Grateful Breath",
+    "thc": "20-26%",
+    "cbd": "<1%",
+    "terpenes": [
+      "terpinolene",
+      "pinene",
+      "myrcene"
+    ],
+    "aromas": [
+      "blueberry",
+      "pine",
+      "haze"
+    ],
+    "experiences": [
+      "lucid focus",
+      "creative buzz",
+      "uplifting calm"
+    ],
+    "bestFor": [
+      "songwriting",
+      "design work",
+      "daytime adventures"
+    ],
+    "popularity": "Potent sativa cut combining Blue Dream clarity with extra punch.",
+    "idealConsumption": "Use a vaporizer for smooth blueberry-pine inhale.",
+    "popularityRank": 80
+  },
+  {
+    "name": "Master Kush",
+    "aliases": [
+      "master kush"
+    ],
+    "type": "Indica",
+    "lineage": "Hindu Kush x Skunk",
+    "thc": "18-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "limonene"
+    ],
+    "aromas": [
+      "earth",
+      "incense",
+      "citrus"
+    ],
+    "experiences": [
+      "deep relaxation",
+      "focus calm",
+      "balanced euphoria"
+    ],
+    "bestFor": [
+      "meditation",
+      "stress relief",
+      "evening calm"
+    ],
+    "popularity": "Dutch-coffee-shop classic beloved by Snoop Dogg.",
+    "idealConsumption": "Enjoy in a hash pipe or vaporizer for incense-like flavor.",
+    "popularityRank": 81
+  },
+  {
+    "name": "Mochi Gelato",
+    "aliases": [
+      "mochi gelato",
+      "mochi"
+    ],
+    "type": "Hybrid",
+    "lineage": "Sunset Sherbet x Thin Mint GSC",
+    "thc": "18-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "linalool"
+    ],
+    "aromas": [
+      "sweet cream",
+      "berry",
+      "gas"
+    ],
+    "experiences": [
+      "balanced calm",
+      "uplifted mood",
+      "dessert satisfaction"
+    ],
+    "bestFor": [
+      "social desserts",
+      "creative sessions",
+      "evening wind-down"
+    ],
+    "popularity": "Gelato family member with mochi dessert vibe.",
+    "idealConsumption": "Low-temp dabs or terp slurpers emphasize the creamy flavor.",
+    "popularityRank": 82
+  },
+  {
+    "name": "Motorbreath",
+    "aliases": [
+      "motorbreath"
+    ],
+    "type": "Hybrid (indica-leaning)",
+    "lineage": "Chem D x SFV OG",
+    "thc": "20-28%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "myrcene"
+    ],
+    "aromas": [
+      "diesel",
+      "fuel",
+      "earth"
+    ],
+    "experiences": [
+      "powerful couch-lock",
+      "heavy calm",
+      "gastric relief"
+    ],
+    "bestFor": [
+      "end-of-day relief",
+      "experienced connoisseurs",
+      "strong body support"
+    ],
+    "popularity": "High-test gas strain bred for potency competitions.",
+    "idealConsumption": "Use sparingly in small bowls or concentrate rigs.",
+    "popularityRank": 83
+  },
+  {
+    "name": "Orange Julius",
+    "aliases": [
+      "orange julius"
+    ],
+    "type": "Hybrid",
+    "lineage": "Orange Creamsicle x Julius Caesar",
+    "thc": "16-22%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "myrcene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "orange",
+      "cream",
+      "herbal"
+    ],
+    "experiences": [
+      "calm uplift",
+      "creative ease",
+      "dessert nostalgia"
+    ],
+    "bestFor": [
+      "lazy brunch",
+      "painting",
+      "light evenings"
+    ],
+    "popularity": "Creamy citrus hybrid inspired by the mall beverage.",
+    "idealConsumption": "Vape at 350\u00b0F or roll with orange peels for aroma boost.",
+    "popularityRank": 84
+  },
+  {
+    "name": "Papaya",
+    "aliases": [
+      "papaya"
+    ],
+    "type": "Indica (hybrid-leaning)",
+    "lineage": "Citral #13 x Ice",
+    "thc": "16-22%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "pinene"
+    ],
+    "aromas": [
+      "tropical",
+      "papaya",
+      "sweet"
+    ],
+    "experiences": [
+      "relaxing calm",
+      "creative daydream",
+      "body comfort"
+    ],
+    "bestFor": [
+      "tropical evenings",
+      "stress relief",
+      "relaxed creativity"
+    ],
+    "popularity": "Tropical indica adored for exotic flavor.",
+    "idealConsumption": "Use in vaporizers to avoid burning off papaya terps.",
+    "popularityRank": 85
+  },
+  {
+    "name": "Pineapple Chunk",
+    "aliases": [
+      "pineapple chunk"
+    ],
+    "type": "Hybrid",
+    "lineage": "Pineapple x Skunk #1 x Cheese",
+    "thc": "18-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "limonene"
+    ],
+    "aromas": [
+      "pineapple",
+      "cheese",
+      "earth"
+    ],
+    "experiences": [
+      "soothing body",
+      "uplifted mood",
+      "long-lasting relaxation"
+    ],
+    "bestFor": [
+      "afternoon ease",
+      "pain relief",
+      "movie marathons"
+    ],
+    "popularity": "Bold flavor hybrid with pineapple-cheese funk.",
+    "idealConsumption": "Great in glass pieces or vaporizer to balance fruit and cheese.",
+    "popularityRank": 86
+  },
+  {
+    "name": "Pink Kush",
+    "aliases": [
+      "pink kush"
+    ],
+    "type": "Indica",
+    "lineage": "OG Kush descendant",
+    "thc": "19-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "myrcene",
+      "limonene"
+    ],
+    "aromas": [
+      "sweet",
+      "vanilla",
+      "floral"
+    ],
+    "experiences": [
+      "blanketing calm",
+      "body warmth",
+      "quiet contentment"
+    ],
+    "bestFor": [
+      "nighttime relaxation",
+      "stress relief",
+      "soothing aches"
+    ],
+    "popularity": "Canadian favorite known for pinkish pistils.",
+    "idealConsumption": "Best as a bedtime bowl or in infused honey for tea.",
+    "popularityRank": 87
+  },
+  {
+    "name": "Platinum GSC",
+    "aliases": [
+      "platinum gsc",
+      "platinum girl scout cookies"
+    ],
+    "type": "Hybrid",
+    "lineage": "OG Kush x Durban Poison x unknown",
+    "thc": "18-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "linalool"
+    ],
+    "aromas": [
+      "sweet",
+      "spice",
+      "earth"
+    ],
+    "experiences": [
+      "strong euphoria",
+      "relaxed body",
+      "creative buzz"
+    ],
+    "bestFor": [
+      "evening fun",
+      "stress relief",
+      "dessert pairing"
+    ],
+    "popularity": "Frosty cookies phenotype with elevated potency.",
+    "idealConsumption": "Roll in papers or vape at 355\u00b0F for sweet spice.",
+    "popularityRank": 88
+  },
+  {
+    "name": "Purple Punch",
+    "aliases": [
+      "purple punch"
+    ],
+    "type": "Indica",
+    "lineage": "Larry OG x Granddaddy Purple",
+    "thc": "17-23%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "pinene"
+    ],
+    "aromas": [
+      "grape soda",
+      "blueberry",
+      "sweet"
+    ],
+    "experiences": [
+      "dessert calm",
+      "sleepy comfort",
+      "body ease"
+    ],
+    "bestFor": [
+      "evening relaxation",
+      "dessert pairing",
+      "stress relief"
+    ],
+    "popularity": "Dessert indica with sparkling purple buds.",
+    "idealConsumption": "Enjoy after dinner in a vaporizer or rolled blunt.",
+    "popularityRank": 89
+  },
+  {
+    "name": "Querkle",
+    "aliases": [
+      "querkle"
+    ],
+    "type": "Indica (hybrid-leaning)",
+    "lineage": "Purple Urkle x Space Queen",
+    "thc": "18-23%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "pinene"
+    ],
+    "aromas": [
+      "grape",
+      "berry",
+      "earth"
+    ],
+    "experiences": [
+      "relaxed happiness",
+      "creative calm",
+      "sleepy finish"
+    ],
+    "bestFor": [
+      "evening art",
+      "stress relief",
+      "winding down"
+    ],
+    "popularity": "TGA Subcool creation blending purple and spacey genetics.",
+    "idealConsumption": "Vape at 340\u00b0F or enjoy as hash for concentrated flavor.",
+    "popularityRank": 90
+  },
+  {
+    "name": "Red Congolese",
+    "aliases": [
+      "red congolese"
+    ],
+    "type": "Sativa",
+    "lineage": "African landrace hybrid",
+    "thc": "18-22%",
+    "cbd": "<1%",
+    "terpenes": [
+      "terpinolene",
+      "myrcene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "spice",
+      "sweet",
+      "earth"
+    ],
+    "experiences": [
+      "stimulating clarity",
+      "creative energy",
+      "light body"
+    ],
+    "bestFor": [
+      "daytime focus",
+      "social events",
+      "uplifting exercise"
+    ],
+    "popularity": "Clear-headed sativa prized in British Columbia.",
+    "idealConsumption": "Use in vapes at 355\u00b0F for exotic spice notes.",
+    "popularityRank": 91
+  },
+  {
+    "name": "Sherbet Cake",
+    "aliases": [
+      "sherbet cake"
+    ],
+    "type": "Hybrid",
+    "lineage": "Sunset Sherbet x Wedding Cake",
+    "thc": "19-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "humulene"
+    ],
+    "aromas": [
+      "tropical",
+      "vanilla",
+      "cake"
+    ],
+    "experiences": [
+      "balanced euphoria",
+      "relaxed body",
+      "dessert joy"
+    ],
+    "bestFor": [
+      "celebrations",
+      "creative evenings",
+      "sharing with friends"
+    ],
+    "popularity": "Dessert mashup delivering layered sweetness.",
+    "idealConsumption": "Smoke in glass or vape at 360\u00b0F to experience full flavor.",
+    "popularityRank": 92
+  },
+  {
+    "name": "Space Queen",
+    "aliases": [
+      "space queen"
+    ],
+    "type": "Hybrid (sativa-leaning)",
+    "lineage": "Cinderella 99 x Romulan",
+    "thc": "16-22%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "pinene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "pineapple",
+      "citrus",
+      "spice"
+    ],
+    "experiences": [
+      "uplifting buzz",
+      "creative euphoria",
+      "tingly relaxation"
+    ],
+    "bestFor": [
+      "gaming",
+      "creative writing",
+      "social hangs"
+    ],
+    "popularity": "Spacey hybrid with cult following in the early 2000s.",
+    "idealConsumption": "Roll flavorful joints or vape at 355\u00b0F.",
+    "popularityRank": 93
+  },
+  {
+    "name": "Star Dawg",
+    "aliases": [
+      "star dawg",
+      "stardawg"
+    ],
+    "type": "Hybrid",
+    "lineage": "Chemdog 4 x Tres Dawg",
+    "thc": "20-26%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "myrcene"
+    ],
+    "aromas": [
+      "diesel",
+      "earth",
+      "pine"
+    ],
+    "experiences": [
+      "potent uplift",
+      "long-lasting calm",
+      "creative clarity"
+    ],
+    "bestFor": [
+      "experienced users",
+      "evening focus",
+      "relief from stress"
+    ],
+    "popularity": "Gas-heavy hybrid loved by East Coast heads.",
+    "idealConsumption": "Use glass or vapes for dense fuel aroma.",
+    "popularityRank": 94
+  },
+  {
+    "name": "Tahoe OG",
+    "aliases": [
+      "tahoe og"
+    ],
+    "type": "Hybrid (indica-leaning)",
+    "lineage": "OG Kush phenotype",
+    "thc": "19-25%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "limonene",
+      "myrcene"
+    ],
+    "aromas": [
+      "lemon",
+      "earth",
+      "pine"
+    ],
+    "experiences": [
+      "deep relaxation",
+      "sleep-ready",
+      "uplifted calm"
+    ],
+    "bestFor": [
+      "stormy nights",
+      "stress relief",
+      "bedtime preps"
+    ],
+    "popularity": "Lake Tahoe classic known for sleepy potency.",
+    "idealConsumption": "Vape at 345\u00b0F or use in bong for quick relief.",
+    "popularityRank": 95
+  },
+  {
+    "name": "Tropicana Cookies",
+    "aliases": [
+      "tropicana cookies",
+      "trop cookies"
+    ],
+    "type": "Hybrid (sativa-leaning)",
+    "lineage": "Tangie x Girl Scout Cookies",
+    "thc": "18-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "limonene",
+      "myrcene",
+      "humulene"
+    ],
+    "aromas": [
+      "orange",
+      "tropical",
+      "cookie"
+    ],
+    "experiences": [
+      "uplifted energy",
+      "creative focus",
+      "sweet calm"
+    ],
+    "bestFor": [
+      "morning sessions",
+      "art",
+      "social gatherings"
+    ],
+    "popularity": "Bright orange-cookie profile with energetic vibe.",
+    "idealConsumption": "Use a dry herb vape at 360\u00b0F for tropical cookie notes.",
+    "popularityRank": 96
+  },
+  {
+    "name": "White Fire OG",
+    "aliases": [
+      "white fire og",
+      "wi-fi og"
+    ],
+    "type": "Hybrid (sativa-leaning)",
+    "lineage": "Fire OG x The White",
+    "thc": "20-28%",
+    "cbd": "<1%",
+    "terpenes": [
+      "caryophyllene",
+      "myrcene",
+      "limonene"
+    ],
+    "aromas": [
+      "diesel",
+      "earth",
+      "spice"
+    ],
+    "experiences": [
+      "strong cerebral uplift",
+      "relaxed body",
+      "focused calm"
+    ],
+    "bestFor": [
+      "day-to-night flexibility",
+      "creative work",
+      "stress relief"
+    ],
+    "popularity": "Potent OG hybrid known as WiFi OG.",
+    "idealConsumption": "Roll in papers or dab to explore its gassy spice.",
+    "popularityRank": 97
+  },
+  {
+    "name": "White Rhino",
+    "aliases": [
+      "white rhino"
+    ],
+    "type": "Indica",
+    "lineage": "White Widow x North American indica",
+    "thc": "18-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "caryophyllene",
+      "pinene"
+    ],
+    "aromas": [
+      "earth",
+      "wood",
+      "spice"
+    ],
+    "experiences": [
+      "heavy sedative",
+      "pain relief",
+      "dreamy calm"
+    ],
+    "bestFor": [
+      "insomnia",
+      "muscle tension",
+      "evening relaxation"
+    ],
+    "popularity": "Stout indica known for thick resin and heavy effects.",
+    "idealConsumption": "Best consumed at night via vaporizer or concentrate.",
+    "popularityRank": 98
+  },
+  {
+    "name": "XJ-13",
+    "aliases": [
+      "xj-13"
+    ],
+    "type": "Hybrid (sativa-leaning)",
+    "lineage": "Jack Herer x G13 Haze",
+    "thc": "17-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "terpinolene",
+      "myrcene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "pine",
+      "citrus",
+      "herbal"
+    ],
+    "experiences": [
+      "clear-headed uplift",
+      "creative focus",
+      "calm relaxation"
+    ],
+    "bestFor": [
+      "daytime projects",
+      "social settings",
+      "stress relief"
+    ],
+    "popularity": "Balancing hybrid with Jack Herer clarity.",
+    "idealConsumption": "Vape at 360\u00b0F for pine-lime zest.",
+    "popularityRank": 99
+  },
+  {
+    "name": "Yoda OG",
+    "aliases": [
+      "yoda og",
+      "yoda kush"
+    ],
+    "type": "Indica",
+    "lineage": "OG Kush phenotype",
+    "thc": "18-24%",
+    "cbd": "<1%",
+    "terpenes": [
+      "myrcene",
+      "limonene",
+      "caryophyllene"
+    ],
+    "aromas": [
+      "earth",
+      "pine",
+      "citrus"
+    ],
+    "experiences": [
+      "deep relaxation",
+      "sleep-inducing",
+      "stress relief"
+    ],
+    "bestFor": [
+      "nighttime",
+      "meditation",
+      "recovery days"
+    ],
+    "popularity": "Force-strong OG cut for bedtime calm.",
+    "idealConsumption": "Load a small bowl or vaporize at 340\u00b0F before rest.",
+    "popularityRank": 100
+  }
+]
